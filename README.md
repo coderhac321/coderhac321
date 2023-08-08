@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coderhac321
-- 👀 I’m interested in learning new languages, cozy gaming, baking, reading and writing.
-- 🌱 I’m currently learning html and want to be a front-end developer.
+- 👀 I’m interested in Java, cozy gaming, and writing.
+- 🌱 I’m currently learning Java and python and want to do something in web development.
 - 💞️ I’m looking to collaborate on games and websites!
 - 📫 How to reach me @coderhac321
 
